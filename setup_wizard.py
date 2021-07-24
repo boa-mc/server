@@ -115,7 +115,7 @@ class Wizard:
             if gigs > psutil.virtual_memory().total / 1000000000:
                 print("You don't have that much RAM!")
             elif gigs > psutil.virtual_memory().available / 1000000000:
-                print("Currently there'_s not that much memory available. Do you want to continue anyway? (available: "
+                print("Currently there's not that much memory available. Do you want to continue anyway? (available: "
                       + str(int(psutil.virtual_memory().available / 1000000000)) + "Gb)")
                 if self._get_choice("yn") == "y":
                     break
