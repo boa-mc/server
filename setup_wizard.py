@@ -17,8 +17,6 @@ class Wizard:
         os.system("clear")
         print("Welcome to the server setup.\n"
               "This tool will guide you to get your Minecraft server running.")
-        self.setup_minecraft_server()
-        os.system("clear")
         if os.path.isdir("Minecraft"):
             print("WARNING! You seem to already have a server in the Minecraft directory! \n"
                   "If you continue, you'll wipe the entire server, including worlds!")
