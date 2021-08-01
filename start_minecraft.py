@@ -106,3 +106,6 @@ class Minecraft:
                 if self.running:
                     self.stop()
                 s.close()
+
+
+Minecraft()
