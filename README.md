@@ -6,11 +6,11 @@ The core for your Minecraft server that can then be controlled by multiple nodes
 
 
 ## Installing
-> :warning: Remember: mc-server-tools is meant to be run on ubuntu server.
+> :warning: Remember: boa-mc is meant to be run on ubuntu server.
 
 Run the following commands:
 ```bash
-git clone https://github.com/mc-server-tools/server/
+git clone https://github.com/boa-mc/server/
 cd server
 python3 main.py
 ```
