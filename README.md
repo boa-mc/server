@@ -16,6 +16,7 @@ Run the following commands:
 ```bash
 git clone https://github.com/boa-mc/server/
 cd server
+pip3 install -r requirements.txt
 python3 main.py
 ```
 You will need to enter a Minecraft version.
