@@ -1,0 +1,6 @@
+argparse
+requests
+shutil
+psutil
+socket
+threading
