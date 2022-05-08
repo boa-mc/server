@@ -5,6 +5,7 @@ The core for your Minecraft server that can then be controlled by multiple nodes
 - java
 - git
 - python3
+
 `java --version` must show the right Java version for the Minecraft server you want to install.
 
 
