@@ -10,7 +10,6 @@ The core for your Minecraft server that can then be controlled by multiple nodes
 
 
 ## Installing
-> :warning: Remember: boa-mc is meant to be run on ubuntu server.
 
 Run the following commands:
 ```bash
