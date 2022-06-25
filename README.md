@@ -2,7 +2,7 @@
 Boa-mc is a tool that allows you to control a minecraft server from a discord bot and a (very minimal) control panel.
 
 # server
-The core for your Minecraft server that can then be controlled by multiple nodes: a website or a Discord bot.
+The API for your minecraft server, which helps you control it with other [nodes](https://github.com/boa-mc).
 
 ## Dependencies
 - java
